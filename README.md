@@ -21,11 +21,11 @@ GRAM의 자율 스터디 팀인 Rx팀입니다.
 
 **[ 1회차: 2019.03.29 ]**
 
-1. Rx란? (김영래)
+1. [Rx란? (김영래)](https://github.com/DSM-GRAM/Rx-Study/tree/master/01_RX란%3F_김영래)
 
 **[ 2회차: 2019.04.03 ]**
 
-2. Observable (김다은)
+2. [Observable (김다은)](https://github.com/DSM-GRAM/Rx-Study/blob/master/02_Observable_김다은/Observable.md)
 
 **[ 3회차: 2019.04.10 ]**
 
