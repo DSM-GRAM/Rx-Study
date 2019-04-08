@@ -368,7 +368,7 @@ observable1.concat(observable2)
 
 ### - 연산자 결정 트리
 
-![operators tree](operators tree.png)
+![operators tree](operators_tree.png)
 
 [ReactiveX](http://reactivex.io/documentation/ko/operators.html) 공식 홈페이지에선 Operator 결정 트리를 제공해주고 있다.
 
