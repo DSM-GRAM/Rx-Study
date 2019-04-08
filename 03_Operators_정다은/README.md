@@ -1,9 +1,7 @@
 # 03_Operators_정다은
-
-[TOC]
-
+     
 ### - What is Operators?
-
+      
 Operator는 **연산자** 라고 할 수 있다. Operator는 **Observable에서 받은 이벤트를 변환하고 처리** 할 수 있도록 해준다.
 
 Operator에는 많은 종류가 있기 때문에 이 모두를 알 순 없고, [ReactiveX](http://reactivex.io/documentation/ko/operators.html#tree) 홈페이지에 있는 연산자 결정 트리를 보며 필요한 Operator를 찾아서 사용하는 것이 일반적이다.
@@ -135,7 +133,7 @@ Observable<String>.just("다은")
 
 하나의 Observable이 발행하는 항목들을 여러개의 Observable로 변환하고, 항목들의 배출을 차례차례 줄 세워 하나의 Observable로 전달한다.
 
-![flatmap](flatmap.png)
+![flatmap](flatMap.png)
 
 ~~~java
 Observable.just("다은")
