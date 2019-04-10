@@ -19,19 +19,16 @@ GRAM의 자율 스터디 팀인 Rx팀입니다.
 
 ## 발표 주제
 
-**[ 1회차: 2019.03.29 ]**
+**[ 1회차: 2019.04.03 ]**
 
 1. [Rx란? (김영래)](https://github.com/DSM-GRAM/Rx-Study/tree/master/01_RX란%3F_김영래)
-
-**[ 2회차: 2019.04.03 ]**
-
 2. [Observable (김다은)](https://github.com/DSM-GRAM/Rx-Study/blob/master/02_Observable_김다은/Observable.md)
 
-**[ 3회차: 2019.04.10 ]**
+**[ 2회차: 2019.04.10 ]**
 
-3. Operators (정다은)
+3. [Operators (정다은)] (https://github.com/DSM-GRAM/Rx-Study/tree/master/03_Operators_정다은#03_operators_정다은)
 
-**[ 4회차: 2019.04.12 ]**
+**[ 3회차: 2019.04.12 ]**
 
 4. Subject (이동기)
 5. Schedular (조우진)
