@@ -26,7 +26,7 @@ GRAM의 자율 스터디 팀인 Rx팀입니다.
 
 **[ 2회차: 2019.04.10 ]**
 
-3. [Operators (정다은)] (https://github.com/DSM-GRAM/Rx-Study/tree/master/03_Operators_정다은#03_operators_정다은)
+3. [Operators (정다은)](https://github.com/DSM-GRAM/Rx-Study/tree/master/03_Operators_정다은#03_operators_정다은)
 
 **[ 3회차: 2019.04.12 ]**
 
