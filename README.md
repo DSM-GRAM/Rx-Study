@@ -31,5 +31,5 @@ GRAM의 자율 스터디 팀인 Rx팀입니다.
 **[ 3회차: 2019.04.12 ]**
 
 4. Subject (이동기)
-5. Schedular (조우진)
+5. [Schedular (조우진)](https://github.com/DSM-GRAM/Rx-Study/tree/master/05_Scheduler_%EC%A1%B0%EC%9A%B0%EC%A7%84)
 
