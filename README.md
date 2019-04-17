@@ -6,7 +6,7 @@ GRAM의 자율 스터디 팀인 Rx팀입니다.
 
 발표 후에는 간단한 예제 구현과 코드리뷰를 진행 할 예정입니다.
 
-
+​           
 
 ## 스터디 규칙
 
@@ -15,7 +15,7 @@ GRAM의 자율 스터디 팀인 Rx팀입니다.
 3. 발표할 때는 집중합시다.
 4. 발표는 동아리 스터디시간을 통해 진행합니다.
 
-
+​            
 
 ## 발표 주제
 
@@ -32,4 +32,22 @@ GRAM의 자율 스터디 팀인 Rx팀입니다.
 
 4. Subject (이동기)
 5. [Schedular (조우진)](https://github.com/DSM-GRAM/Rx-Study/tree/master/05_Scheduler_%EC%A1%B0%EC%9A%B0%EC%A7%84)
+
+​        
+
+## 예제 프로젝트 진행
+
+서버로부터 데이터를 받아서 RecyclerView(UITableView)로 띄워줍니다.
+
+아이템을 클릭하면 다음 Activity(ViewController)로 HistoricalSiteName을 넘겨주어 TextView(Label)으로 띄워줍니다.
+
+MVVM 패턴과 Rx를 사용하여 구현합니다.
+
+​      
+
+url : http://52.199.207.14/main/bla
+
+[Swagger](http://52.199.207.14/docs?fbclid=IwAR3vwcv8S2xhl8SK9Xbr4NCmnjIQwbbPFEOtJKB2U3gNJJ70nsMtdNtzCsk#/Map/get_map__history_site_code_) 를 참고합시다.
+
+개인 repository 파서 작업합니다 :)
 
