@@ -35,7 +35,7 @@ GRAM의 자율 스터디 팀인 Rx팀입니다.
 
 ​        
 
-## 예제 프로젝트 진행
+## 예제 프로젝트 진행 (MVVM + Rx)
 
 서버로부터 데이터를 받아서 RecyclerView(UITableView)로 띄워줍니다.
 
@@ -51,3 +51,17 @@ url : http://52.199.207.14/main/bla
 
 개인 repository 파서 작업합니다 :)
 
+- [김영래](https://github.com/notmyfault02/MVVMwithRx)
+- [김다은](https://github.com/DAEUN28/Rx-Study/tree/master/smallHistoryProject)
+- [이동기]()
+- [정다은](https://github.com/DaeunJeong/Danny-iOS/tree/master/ToyProjects/PracticeMVVMRxSwift)
+- [조우진](https://github.com/Woopa01/RxStudy-MVVM)
+- [김태영]()
+
+​              
+
+## 팀 프로젝트 진행
+
+- 김영래&김태영 : Pictory (~6/12)
+- 김다은&정다은 : History-Project-iOS (~5/31)
+- 이동기&조우진 : JustGo (~5/31)
