@@ -44,11 +44,6 @@ GRAM의 자율 스터디 팀인 Rx팀입니다.
 MVVM 패턴과 Rx를 사용하여 구현합니다.
 
 ​      
-
-url : http://52.199.207.14/main/bla
-
-[Swagger](http://52.199.207.14/docs?fbclid=IwAR3vwcv8S2xhl8SK9Xbr4NCmnjIQwbbPFEOtJKB2U3gNJJ70nsMtdNtzCsk#/Map/get_map__history_site_code_) 를 참고합시다.
-
 개인 repository 파서 작업합니다 :)
 
 - [김영래](https://github.com/notmyfault02/MVVMwithRx)
@@ -56,7 +51,7 @@ url : http://52.199.207.14/main/bla
 - [이동기]()
 - [정다은](https://github.com/DaeunJeong/Danny-iOS/tree/master/ToyProjects/PracticeMVVMRxSwift)
 - [조우진](https://github.com/Woopa01/RxStudy-MVVM)
-- [김태영]()
+- [김태영](https://github.com/SadFrogpp/History-Project-With-RxJava)
 
 ​              
 
