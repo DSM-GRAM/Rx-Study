@@ -57,6 +57,13 @@ MVVM 패턴과 Rx를 사용하여 구현합니다.
 
 ## 팀 프로젝트 진행
 
-- 김영래&김태영 : Pictory (~6/12)
-- 김다은&정다은 : History-Project-iOS (~5/31)
-- 이동기&조우진 : JustGo (~5/31)
+- 김영래&김태영 : [Pictory](https://github.com/SadFrogpp/Pictory)
+
+  RxJava와 MVVM 패턴을 사용한 Android 프로젝트
+
+- 김다은&정다은 : [History-Project-iOS](https://github.com/DSM-GRAM/History-Project-ios)
+
+  RxSwift와 MVVM 패턴을 사용한 iOS 프로젝트
+
+- 이동기&조우진 : JustGo (진행중)
+
